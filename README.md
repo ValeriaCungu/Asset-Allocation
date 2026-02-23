@@ -1,8 +1,6 @@
 # Asset-Allocation
 
 
-This project, conducted in May 2023, is a collaborative effort by Tommaso Lussetich and me as part of our university coursework.
-
 We conducted a comprehensive study on asset allocation using various techniques on selected stocks from the Italian stock market. The project's Python codebase can be found in the directory, and the formal report, prepared using LaTeX, is available in the PDF file named Report.pdf.
 
 Asset Allocation Study
